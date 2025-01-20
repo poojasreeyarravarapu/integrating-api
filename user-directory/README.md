@@ -1,6 +1,6 @@
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo.git](https://github.com/poojasreeyarravarapu/integrating-api.git)
+   git clone https://github.com/poojasreeyarravarapu/integrating-api.git
    cd integrating-api
 2. **Install dependencies:**
 npm install
